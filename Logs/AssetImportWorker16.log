@@ -16,11 +16,11 @@ COMMAND LINE ARGUMENTS:
 -batchMode
 -noUpm
 -name
-AssetImportWorker8
+AssetImportWorker16
 -projectPath
 /Users/mac/Documents/Holberton Files/holbertonschool-0x02-unity-scripting
 -logFile
-Logs/AssetImportWorker8.log
+Logs/AssetImportWorker16.log
 -srvPort
 60717
 Successfully changed project path to: /Users/mac/Documents/Holberton Files/holbertonschool-0x02-unity-scripting
@@ -54,7 +54,7 @@ Successfully changed project path to: /Users/mac/Documents/Holberton Files/holbe
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 1726.33 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 2878.89 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.1f1 (3b70a0754835)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2019.4.11f1/2021.3.1f1/Unity.app/Contents/Resources/UnitySubsystems
@@ -69,5 +69,5 @@ Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2019.4.11f1/2021.3.1f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2019.4.11f1/2021.3.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Applications/Unity/Hub/Editor/2019.4.11f1/2021.3.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56571
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56758
 Begin MonoManager ReloadAssembly
