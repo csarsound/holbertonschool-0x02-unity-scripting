@@ -1,0 +1,239 @@
+Unity Editor version:    2021.3.1f1 (3b70a0754835)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 10.13.6 (Build 17G14042)
+Darwin version:          17.7.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        4096 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2019.4.11f1/2021.3.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker142
+-projectPath
+/Users/mac/Documents/Holberton Files/holbertonschool-0x02-unity-scripting
+-logFile
+Logs/AssetImportWorker142.log
+-srvPort
+61559
+Successfully changed project path to: /Users/mac/Documents/Holberton Files/holbertonschool-0x02-unity-scripting
+/Users/mac/Documents/Holberton Files/holbertonschool-0x02-unity-scripting
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+     88153 7fff8e29f380 -
+     88694 7fff8e29f380 -
+     88708 7fff8e29f380 -
+     88719 7fff8e29f380 -
+     88731 7fff8e29f380 -
+     88746 7fff8e29f380 -
+     88759 7fff8e29f380 -
+     88772 7fff8e29f380 -
+     88784 7fff8e29f380 -
+     88797 7fff8e29f380 -
+     88814 7fff8e29f380 -
+     88842 7fff8e29f380 -
+     88856 7fff8e29f380 -
+     88880 7fff8e29f380 -
+     88893 7fff8e29f380 -
+     88907 7fff8e29f380 -
+     88922 7fff8e29f380 -
+     88934 7fff8e29f380 -
+     88945 7fff8e29f380 -
+     88957 7fff8e29f380 -
+     88970 7fff8e29f380 -
+     88983 7fff8e29f380 -
+     88996 7fff8e29f380 -
+     89009 7fff8e29f380 -
+     89022 7fff8e29f380 -
+     89045 7fff8e29f380 -
+     89062 7fff8e29f380 -
+     89074 7fff8e29f380 -
+     89088 7fff8e29f380 -
+     89100 7fff8e29f380 -
+     89112 7fff8e29f380 -
+     89125 7fff8e29f380 -
+     89141 7fff8e29f380 -
+     89153 7fff8e29f380 -
+     89167 7fff8e29f380 -
+     89177 7fff8e29f380 -
+     89191 7fff8e29f380 -
+     89260 7fff8e29f380 -
+     89301 7fff8e29f380 -
+     89325 7fff8e29f380 -
+     89344 7fff8e29f380 -
+     89358 7fff8e29f380 -
+     89371 7fff8e29f380 -
+     89381 7fff8e29f380 -
+     89394 7fff8e29f380 -
+     89406 7fff8e29f380 -
+     89418 7fff8e29f380 -
+     89431 7fff8e29f380 -
+     89443 7fff8e29f380 -
+     89454 7fff8e29f380 -
+     89467 7fff8e29f380 -
+     89479 7fff8e29f380 -
+     89491 7fff8e29f380 -
+     89504 7fff8e29f380 -
+     89519 7fff8e29f380 -
+     89531 7fff8e29f380 -
+     89545 7fff8e29f380 -
+     89558 7fff8e29f380 -
+     89586 7fff8e29f380 -
+     89597 7fff8e29f380 -
+     89616 7fff8e29f380 -
+     89627 7fff8e29f380 -
+     89641 7fff8e29f380 -
+     89653 7fff8e29f380 -
+     89666 7fff8e29f380 -
+     89677 7fff8e29f380 -
+     89689 7fff8e29f380 -
+     89707 7fff8e29f380 -
+     89727 7fff8e29f380 -
+     89742 7fff8e29f380 -
+     89754 7fff8e29f380 -
+     89771 7fff8e29f380 -
+     89785 7fff8e29f380 -
+     89849 7fff8e29f380 -
+     89935 7fff8e29f380 -
+     89956 7fff8e29f380 -
+     89971 7fff8e29f380 -
+     89984 7fff8e29f380 -
+     90005 7fff8e29f380 -
+     90016 7fff8e29f380 -
+     90029 7fff8e29f380 -
+     90076 7fff8e29f380 -
+     90087 7fff8e29f380 -
+     90101 7fff8e29f380 -
+     90215 7fff8e29f380 -
+     90242 7fff8e29f380 -
+     90285 7fff8e29f380 -
+     90344 7fff8e29f380 -
+     90384 7fff8e29f380 -
+     90437 7fff8e29f380 -
+     90482 7fff8e29f380 -
+     90522 7fff8e29f380 -
+     90551 7fff8e29f380 -
+     90614 7fff8e29f380 -
+     90634 7fff8e29f380 -
+     90665 7fff8e29f380 -
+     90682 7fff8e29f380 -
+     90703 7fff8e29f380 -
+     90725 7fff8e29f380 -
+     90772 7fff8e29f380 -
+     90807 7fff8e29f380 -
+     90843 7fff8e29f380 -
+     90858 7fff8e29f380 -
+     90869 7fff8e29f380 -
+     90884 7fff8e29f380 -
+     90895 7fff8e29f380 -
+     90908 7fff8e29f380 -
+     90920 7fff8e29f380 -
+     90931 7fff8e29f380 -
+     90945 7fff8e29f380 -
+     90956 7fff8e29f380 -
+     90968 7fff8e29f380 -
+     90980 7fff8e29f380 -
+     90992 7fff8e29f380 -
+     91009 7fff8e29f380 -
+     91024 7fff8e29f380 -
+     91083 7fff8e29f380 -
+     91113 7fff8e29f380 -
+     91187 7fff8e29f380 -
+     91215 7fff8e29f380 -
+     91248 7fff8e29f380 -
+     91263 7fff8e29f380 -
+     91275 7fff8e29f380 -
+     91286 7fff8e29f380 -
+     91298 7fff8e29f380 -
+     91313 7fff8e29f380 -
+Cleaned out 125 stale readers
+Refreshing native plugins compatible for Editor in 967.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.1f1 (3b70a0754835)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2019.4.11f1/2021.3.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/mac/Documents/Holberton Files/holbertonschool-0x02-unity-scripting/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Color LCD preferred device: Intel HD Graphics 4000 (low power)
+Metal devices available: 1
+0: Intel HD Graphics 4000 (low power)
+Using device Intel HD Graphics 4000 (low power)
+Initializing Metal device caps: Intel HD Graphics 4000
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2019.4.11f1/2021.3.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2019.4.11f1/2021.3.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2019.4.11f1/2021.3.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56325
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2019.4.11f1/2021.3.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002204 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 73.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.042 seconds
+Domain Reload Profiling:
+	ReloadAssembly (8042ms)
+		BeginReloadAssembly (3031ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (4568ms)
+			LoadAssemblies (3029ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (257ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (63ms)
+			SetupLoadedEditorAssemblies (4149ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (74ms)
+				BeforeProcessingInitializeOnLoad (3ms)
+				ProcessInitializeOnLoadAttributes (3912ms)
+				ProcessInitializeOnLoadMethodAttributes (148ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.527853 seconds.
